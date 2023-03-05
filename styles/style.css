@@ -440,7 +440,9 @@ header{
 	.home-content p {
 	 font-size:.8rem;
 	}
-	
+	.home{
+	 	max-width:300px;
+	}
 
 	.home-img img{
 		width: 70vw;
