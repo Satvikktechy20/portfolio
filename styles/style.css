@@ -425,17 +425,17 @@ header{
 	}
 	.home{
 		flex-direction: column;
-		left: 40px;
+		left: 60px;
 		margin-top: 20px;
 	}
 
 	.home-content h3{
-		font-size: 2.2rem;
+		font-size: 1.6rem;
     
 	}
 
 	.home-content h1{
-		font-size: 5rem;
+		font-size: 4rem;
 	}
 
 	.home-img img{
